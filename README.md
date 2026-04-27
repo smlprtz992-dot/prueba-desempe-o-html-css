@@ -19,7 +19,6 @@ Use Flexbox and/or Grid where appropriate.
 
 Ensure the page is clean, readable, and well-organized.
 
-🧱 Project Structure
 ├── assets
 │   ├── css
 │   │   └── style.css
